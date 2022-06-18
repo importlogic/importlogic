@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/71769231/174435802-a6edcff4-cd9d-4722-82d5-174f56865540.png" alt="my banner"></a>
+</p>
+
 <h3 align="center">
 Hi there, I'm Manas</a> 👋
 </h3>
