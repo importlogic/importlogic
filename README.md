@@ -2,6 +2,12 @@
 Hi there, I'm Manas</a> 👋
 </h3>
 
+## 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/rawatmanas/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 <!--
 **importlogic/importlogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
