@@ -4,6 +4,7 @@ Hi there, I'm Manas</a> 👋
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/rawatmanas/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
+<a href="https://linktr.ee/manasrawat"><img align="left" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Manas Rawat | Linktree"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
