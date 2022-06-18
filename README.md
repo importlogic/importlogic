@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 ## 🔭 I’m currently working on
 Building mini projects to learn WebDev.
 
+
 ## 🌱 I’m currently learning
 Full stack web development.
+
 
 ## 💼 Technical Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,9 +42,12 @@ Full stack web development.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 📈 GitHub Stats 
 [![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic)](https://github.com/importlogic)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=importlogic&layout=compact)](https://github.com/importlogic)
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=importlogic)
