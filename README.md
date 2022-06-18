@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=importlogic&layout=compact)](https://github.com/importlogic)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=importlogic)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=importlogic)(google.com)
