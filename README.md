@@ -3,7 +3,6 @@ Hi there, I'm Manas</a> 👋
 </h3>
 
 ## 🤝 Connect with me:
-
 <a href="https://www.linkedin.com/in/rawatmanas/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -21,14 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 
 ## 🔭 I’m currently working on
 Building mini projects to learn WebDev.
 
+<br>
 
 ## 🌱 I’m currently learning
 Full stack web development.
 
+<br>
 
 ## 💼 Technical Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,6 +50,7 @@ Full stack web development.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
 
 ## 📈 GitHub Stats 
 [![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic)](https://github.com/importlogic)
@@ -55,5 +58,6 @@ Full stack web development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=importlogic&layout=compact)](https://github.com/importlogic)
 
+<br>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=importlogic)
