@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🔭 I’m currently working on
-Building mini projects to learn WebDev.
+Working on a web app name Random Tools🤫
 
 <br>
 
