@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71769231/174435802-a6edcff4-cd9d-4722-82d5-174f56865540.png" alt="my banner"></a>
+  <img src="https://github.com/importlogic/importlogic/blob/main/header.svg" alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm Manas</a> 👋
-</h3>
-
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/rawatmanas/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/rawatmanas/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
 <a href="https://linktr.ee/manasrawat"><img align="left" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Manas Rawat | Linktree"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -28,7 +24,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🔭 I’m currently working on
-Working on a web app name Random Tools🤫
+Different personal projects and learning new stuff.
 
 <br>
 
@@ -37,7 +33,16 @@ Full stack web development.
 
 <br>
 
+## 👨‍💻 My projects
+* [Tagify](https://github.com/importlogic/tagify)
+* [Quiz Land](https://github.com/importlogic/quiz-land)
+* [CF GetRating Browser Extension](https://github.com/importlogic/cf-getrating-extension)
+* [Random Tools](https://github.com/importlogic/random-tools)
+
+<br>
+
 ## 💼 Technical Skills
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -47,6 +52,7 @@ Full stack web development.
 <br>
 <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 <br>
@@ -58,11 +64,9 @@ Full stack web development.
 <br>
 
 ## 📈 GitHub Stats 
-[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic)](https://github.com/importlogic)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=importlogic&layout=compact)](https://github.com/importlogic)
+[![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
 
 <br>
 
+## 👀 Visitors
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=importlogic)
