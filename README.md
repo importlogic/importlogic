@@ -63,6 +63,12 @@ Full stack web development.
 
 <br>
 
+## 📜 Coding Activity
+<!--START_SECTION:waka-readme-->
+<!--END_SECTION:waka-readme-->
+
+<br>
+
 ## 📈 GitHub Stats 
 [![Manas’s github stats](https://github-readme-stats.vercel.app/api?username=importlogic&show_icons=true&theme=dark&count_private=true)](https://github.com/importlogic)
 
