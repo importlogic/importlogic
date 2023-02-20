@@ -64,8 +64,8 @@ Full stack web development.
 <br>
 
 ## 📜 Coding Activity
-<!--START_SECTION:waka-readme-->
-<!--END_SECTION:waka-readme-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
