@@ -34,10 +34,10 @@ Full stack web development.
 <br>
 
 ## 👨‍💻 My projects
-* [Tagify](https://github.com/importlogic/tagify)
-* [Quiz Land](https://github.com/importlogic/quiz-land)
-* [CF GetRating Browser Extension](https://github.com/importlogic/cf-getrating-extension)
-* [Random Tools](https://github.com/importlogic/random-tools)
+* [Tagify](https://github.com/importlogic/tagify) - A Windows Application made using <strong>C#</strong> for tagging files with custom tags and searching them on basis of tags.
+* [Quiz Land](https://github.com/importlogic/quiz-land) - A Full Stack Web Application made using <strong>NodeJS</strong>, <strong>HTML</strong> and <strong>CSS</strong> which allows anyone to register as an admin and host their own quizzes on the platform and share link links with the participants to join quizzes.
+* [CF GetRating Browser Extension](https://github.com/importlogic/cf-getrating-extension) - A browser extension made with <strong>JavaScript</strong> for Codeforces which helps users to see the problem rating without enabling problem tags which was not possible before.
+* [Random Tools](https://github.com/importlogic/random-tools) - A Full Stack Web Application made using <strong>NodeJS</strong>, <strong>HTML</strong> and <strong>CSS</strong> having some Random Tools made using JavaScript.
 
 <br>
 
