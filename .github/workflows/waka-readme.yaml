@@ -1,6 +1,9 @@
 name: Waka Readme
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch: # for manual workflow trigger
   schedule:
     # Runs every two minute
@@ -8,7 +11,6 @@ on:
 
 jobs:
   update-readme:
-    permissions: write-all
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
@@ -21,4 +23,3 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
