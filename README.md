@@ -65,6 +65,15 @@ Full stack web development.
 
 ## 📜 Coding Activity
 <!--START_SECTION:waka-->
+
+```text
+From: 18 February 2023 - To: 19 February 2023
+
+Total Time: 13 mins
+
+Other   10 mins         ███████████████████░░░░░░   75.86 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
