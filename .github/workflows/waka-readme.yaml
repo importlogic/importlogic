@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch: # for manual workflow trigger
   schedule:
     # Runs every two minute
