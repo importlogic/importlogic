@@ -14,7 +14,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: "waka-readme"
           COMMIT_MESSAGE: "waka update time stats"
           SHOW_TITLE: true
           TIME_RANGE: all_time
