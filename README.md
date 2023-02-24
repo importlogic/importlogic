@@ -67,7 +67,7 @@ Full stack web development.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 February 2023 - To: 21 February 2023
+From: 18 February 2023 - To: 22 February 2023
 
 Total Time: 26 mins
 
