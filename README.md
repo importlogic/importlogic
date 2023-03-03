@@ -67,12 +67,13 @@ Full stack web development.
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 February 2023 - To: 28 February 2023
+From: 18 February 2023 - To: 02 March 2023
 
-Total Time: 28 mins
+Total Time: 1 hr 38 mins
 
-C++     18 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   63.71 %
-Other   10 mins         ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.29 %
+Python   57 mins         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱   58.71 %
+C++      29 mins         ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.22 %
+Other    10 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.07 %
 ```
 
 <!--END_SECTION:waka-->
