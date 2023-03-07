@@ -2,34 +2,18 @@
   <img src="https://github.com/importlogic/importlogic/blob/main/header.svg" alt="my banner"></a>
 </p>
 
-## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/rawatmanas/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
-<a href="https://linktr.ee/manasrawat"><img align="left" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Manas Rawat | Linktree"/></a>
-</br>
+<br>
+
+## 😄 About Me
+- 🎓 I am a pre final year Bachelor of Technology Computer Science student at Chhatrapati Shahu Ji Maharaj University, Kanpur.
+- 🌱 I am currently learning React and related technologies.
+- 🔭 I am currently working on different personal projects and learning new stuff.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<!--
-**importlogic/importlogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br>
-
-## 🔭 I’m currently working on
-Different personal projects and learning new stuff.
-
-<br>
-
-## 🌱 I’m currently learning
-Full stack web development.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rawatmanas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manas Rawat | LinkedIn"/></a>
+  <a href="https://linktr.ee/manasrawat"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Manas Rawat | Linktree"/></a>
+</p>
 
 <br>
 
@@ -42,24 +26,30 @@ Full stack web development.
 <br>
 
 ## 💼 Technical Skills
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
-<br>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br>
-<br>
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,jquery" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,atom,vscode,visualstudio,androidstudio" />
+  </a>
+</p>
 
 <br>
 
