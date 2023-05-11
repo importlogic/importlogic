@@ -78,4 +78,4 @@ Other      1 min           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 <br>
 
 ## 👀 Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=importlogic)
+![Visitors](https://profile-counter.glitch.me/importlogic/count.svg)
