@@ -78,4 +78,5 @@ Other      1 min           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 <br>
 
 ## 👀 Visitors
-![Visitors](https://profile-counter.glitch.me/importlogic/count.svg)
+<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
+![Visitors](https://moe-counter.glitch.me/get/@importlogic?theme=rule34)
