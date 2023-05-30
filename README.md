@@ -57,15 +57,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 27 May 2023
+From: 28 April 2023 - To: 28 May 2023
 
-Total Time: 49 hrs 12 mins
+Total Time: 51 hrs 5 mins
 
-C++          40 hrs 16 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   81.87 %
-Text         6 hrs 19 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.85 %
-Python       1 hr 35 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.23 %
-Bash         31 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.06 %
-TypeScript   11 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.39 %
+C++          41 hrs 45 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   81.74 %
+Text         6 hrs 43 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.17 %
+Python       1 hr 35 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.11 %
+Bash         31 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.03 %
+TypeScript   11 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.38 %
 ```
 
 <!--END_SECTION:waka-->
