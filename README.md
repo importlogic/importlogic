@@ -57,15 +57,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2023 - To: 13 August 2023
+From: 15 July 2023 - To: 14 August 2023
 
-Total Time: 46 hrs 21 mins
+Total Time: 45 hrs 14 mins
 
-C++                   30 hrs 28 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   65.72 %
-JavaScript            10 hrs 17 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   22.21 %
-HTML                  2 hrs 34 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.55 %
-Text                  1 hr 4 mins     ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.32 %
-TypeScript            1 hr 2 mins     ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.24 %
+C++                   29 hrs 24 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱   65.01 %
+JavaScript            10 hrs 17 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   22.76 %
+HTML                  2 hrs 34 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.69 %
+TypeScript            1 hr 2 mins     ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.30 %
+Text                  1 hr            ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.24 %
 ```
 
 <!--END_SECTION:waka-->
