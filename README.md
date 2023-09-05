@@ -57,15 +57,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 02 September 2023
+From: 04 August 2023 - To: 03 September 2023
 
-Total Time: 48 hrs 16 mins
+Total Time: 48 hrs 7 mins
 
-C++              21 hrs 36 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.78 %
-JavaScript       17 hrs 27 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.17 %
-Python           2 hrs 35 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.38 %
-Bash             1 hr 47 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.72 %
-YAML             1 hr 41 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.51 %
+C++              22 hrs 29 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   46.72 %
+JavaScript       16 hrs 26 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.17 %
+Python           2 hrs 35 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.40 %
+Bash             1 hr 47 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.73 %
+YAML             1 hr 41 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.52 %
 ```
 
 <!--END_SECTION:waka-->
