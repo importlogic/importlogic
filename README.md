@@ -57,14 +57,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2023 - To: 27 September 2023
+From: 29 August 2023 - To: 28 September 2023
 
-Total Time: 78 hrs 28 mins
+Total Time: 79 hrs 45 mins
 
-C++            74 hrs 9 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   94.51 %
-Bash           1 hr 26 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.83 %
-YAML           1 hr 18 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.66 %
-Docker         50 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.08 %
+C++            75 hrs 23 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   94.53 %
+Bash           1 hr 26 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.80 %
+YAML           1 hr 17 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.63 %
+Docker         50 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.06 %
 Ezhil          16 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.35 %
 ```
 
