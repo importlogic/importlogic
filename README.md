@@ -5,7 +5,7 @@
 <br>
 
 ## 😄 About Me
-- 🎓 I am a pre final year Bachelor of Technology Computer Science student at Chhatrapati Shahu Ji Maharaj University, Kanpur.
+- 🎓 I am a Final year Bachelor of Technology Computer Science student at Chhatrapati Shahu Ji Maharaj University, Kanpur.
 - 🌱 I am currently learning React and related technologies.
 - 🔭 I am currently working on different personal projects and learning new stuff.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
