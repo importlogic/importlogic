@@ -57,15 +57,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2023 - To: 28 December 2023
+From: 29 November 2023 - To: 29 December 2023
 
-Total Time: 29 hrs 45 mins
+Total Time: 30 hrs 34 mins
 
-C++          12 hrs 53 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.34 %
-JavaScript   9 hrs 48 mins   ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   32.94 %
-TypeScript   3 hrs 6 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.46 %
-Python       2 hrs 12 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.42 %
-Bash         30 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.71 %
+C++                   13 hrs 40 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.75 %
+JavaScript            9 hrs 48 mins   ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   32.06 %
+TypeScript            3 hrs 6 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.18 %
+Python                2 hrs 12 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.23 %
+Bash                  30 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.67 %
 ```
 
 <!--END_SECTION:waka-->
