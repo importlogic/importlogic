@@ -57,12 +57,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 20 January 2024
+From: 22 December 2023 - To: 21 January 2024
 
-Total Time: 57 hrs 48 mins
+Total Time: 56 hrs 57 mins
 
-C++                   57 hrs 3 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   98.70 %
-JavaScript            16 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.47 %
+C++                   56 hrs 12 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   98.68 %
+JavaScript            16 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.48 %
 Text                  11 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.32 %
 Other                 8 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.25 %
 Bash                  4 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.13 %
