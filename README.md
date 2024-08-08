@@ -5,8 +5,7 @@
 <br>
 
 ## 😄 About Me
-- 🎓 I am a Final year Bachelor of Technology Computer Science student at Chhatrapati Shahu Ji Maharaj University, Kanpur.
-- 🌱 I am currently learning React and related technologies.
+- 🎓 I am a Software Engineer messing around with backend technologies.
 - 🔭 I am currently working on different personal projects and learning new stuff.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -29,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py" />
   </a>
 </p>
 
@@ -69,6 +68,11 @@ Go            12 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 ```
 
 <!--END_SECTION:waka-->
+
+<br>
+
+## 🚀 Coding Heatmap
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@importlogic/40a529cf-1471-4bf4-94ed-76ef51816aa1.png" /></a>
 
 <br>
 
