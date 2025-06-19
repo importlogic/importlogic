@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 16 June 2025
+From: 18 May 2025 - To: 17 June 2025
 
-Total Time: 20 hrs 47 mins
+Total Time: 22 hrs 5 mins
 
-Java                       9 hrs 5 mins    ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.74 %
-TypeScript                 2 hrs 54 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.98 %
-Brazil Dependency Config   2 hrs 39 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.81 %
-Kotlin                     2 hrs 23 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.53 %
-JSON                       1 hr 27 mins    ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.99 %
+Java                       10 hrs 1 min    ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   45.36 %
+TypeScript                 3 hrs 2 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.79 %
+Brazil Dependency Config   2 hrs 39 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.05 %
+Kotlin                     2 hrs 23 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.85 %
+JSON                       1 hr 27 mins    ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.58 %
 ```
 
 <!--END_SECTION:waka-->
