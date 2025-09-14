@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 11 September 2025
+From: 13 August 2025 - To: 12 September 2025
 
-Total Time: 84 hrs 24 mins
+Total Time: 79 hrs
 
-Java                          31 hrs 43 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   37.59 %
-TypeScript                    14 hrs 8 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.76 %
-Kotlin                        12 hrs 33 mins  ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.88 %
-Python                        6 hrs 3 mins    ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.19 %
-Markdown                      3 hrs 52 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.59 %
+Java                          31 hrs 45 mins  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   40.20 %
+TypeScript                    13 hrs 4 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.56 %
+Kotlin                        12 hrs 33 mins  ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.89 %
+Python                        4 hrs 40 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.91 %
+Smithy                        3 hrs 17 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.16 %
 ```
 
 <!--END_SECTION:waka-->
