@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2025 - To: 08 November 2025
+From: 10 October 2025 - To: 09 November 2025
 
-Total Time: 29 hrs 28 mins
+Total Time: 27 hrs 39 mins
 
-TypeScript                 12 hrs 48 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   43.44 %
-Kotlin                     3 hrs 56 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.39 %
-JSON                       3 hrs 52 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.16 %
-INI                        3 hrs 42 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.59 %
-Other                      1 hr 28 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.02 %
+TypeScript                 12 hrs 23 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.80 %
+Kotlin                     4 hrs 12 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.19 %
+INI                        3 hrs 43 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.44 %
+JSON                       2 hrs 31 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.14 %
+Other                      1 hr 3 mins     ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.85 %
 ```
 
 <!--END_SECTION:waka-->
