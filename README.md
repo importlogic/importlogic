@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 06 December 2025
+From: 07 November 2025 - To: 07 December 2025
 
-Total Time: 40 hrs 13 mins
+Total Time: 41 hrs 17 mins
 
-Java                       14 hrs 51 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.93 %
-INI                        7 hrs 45 mins   ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.30 %
-Java Server Pages          3 hrs 55 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.74 %
-Kotlin                     3 hrs 10 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.89 %
-Markdown                   2 hrs 6 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.26 %
+Java                       14 hrs 56 mins  ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.20 %
+INI                        7 hrs 21 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.81 %
+Java Server Pages          5 hrs 50 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.16 %
+JavaScript                 2 hrs 29 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.04 %
+Markdown                   2 hrs 8 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.19 %
 ```
 
 <!--END_SECTION:waka-->
