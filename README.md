@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 09 December 2025
+From: 10 November 2025 - To: 10 December 2025
 
-Total Time: 43 hrs 32 mins
+Total Time: 46 hrs 11 mins
 
-Java                       17 hrs 14 mins  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   39.61 %
-INI                        7 hrs 31 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   17.27 %
-Java Server Pages          6 hrs 27 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.83 %
-JavaScript                 2 hrs 44 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.29 %
-Markdown                   2 hrs 8 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.92 %
+Java                       17 hrs 6 mins   ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   37.01 %
+INI                        7 hrs 15 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.70 %
+Java Server Pages          6 hrs 59 mins   ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.13 %
+JavaScript                 5 hrs 49 mins   ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.61 %
+Markdown                   2 hrs 8 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.64 %
 ```
 
 <!--END_SECTION:waka-->
