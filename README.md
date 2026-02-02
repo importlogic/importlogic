@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 30 January 2026
+From: 02 January 2026 - To: 01 February 2026
 
-Total Time: 51 hrs 51 mins
+Total Time: 49 hrs 58 mins
 
-Java                       21 hrs 48 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   42.04 %
-TypeScript                 9 hrs 36 mins   ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   18.54 %
-JSON                       4 hrs 20 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.37 %
-Other                      3 hrs 49 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.38 %
-Java Server Pages          3 hrs 32 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.82 %
+Java                       20 hrs 19 mins  ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   40.68 %
+TypeScript                 9 hrs 36 mins   ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.24 %
+JSON                       4 hrs 20 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.69 %
+Other                      3 hrs 45 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.51 %
+Java Server Pages          3 hrs 32 mins   ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.08 %
 ```
 
 <!--END_SECTION:waka-->
