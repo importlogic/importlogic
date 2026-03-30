@@ -56,15 +56,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 27 March 2026
+From: 26 February 2026 - To: 28 March 2026
 
-Total Time: 38 hrs 42 mins
+Total Time: 36 hrs 38 mins
 
-Java                14 hrs 12 mins        ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.71 %
-TypeScript          5 hrs 40 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.65 %
-JavaScript          4 hrs 22 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.29 %
-YAML                2 hrs 47 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.20 %
-Other               2 hrs 2 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.26 %
+Java                13 hrs 33 mins        ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   37.01 %
+TypeScript          5 hrs 33 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.15 %
+JavaScript          4 hrs 22 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.93 %
+YAML                2 hrs 47 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.61 %
+HTML                2 hrs 1 min           ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.51 %
 ```
 
 <!--END_SECTION:waka-->
